@@ -5,7 +5,7 @@ print("Hello " + name)
 print("How are you doing today? Say good or not good")
 feeling=input()
 print("Ok you are feeling, " + feeling)
-print(Say Bye)
+print("Say Bye")
 bye=input()
 print(bye)
 
